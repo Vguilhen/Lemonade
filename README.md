@@ -1,4 +1,4 @@
-# LEMONADE CHALLENGE APP - Android Kotlin 🍋
+# LEMONADE CHALLENGE - Android Kotlin 🍋
 
 ## Desafio proposto no final da Unidade 1 do curso básico do Android Developers
  
